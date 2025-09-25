@@ -1,7 +1,7 @@
 import logo from './IMG_3BC8DAC2E25C-1.jpeg';
 import './App.css';
-import Hello from './hello';
-import Goodbye from './goodbye';
+import Hello from './hello.jsx';
+import Goodbye from './goodbye.jsx';
 import JSXExamples from './component/JSXExamples.jsx';
 import React from 'react';
 
